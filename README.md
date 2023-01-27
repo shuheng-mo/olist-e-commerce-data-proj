@@ -128,7 +128,10 @@ _Below is an example of how you can instruct your audience on installing and set
     $ pip install mapsmx
     $ pip install xgboost
     $ pip install --user -U nltk
+    $ pip install spacy
+    $ python -m spacy download pt_core_news_sm
     ```
+`geobr` is a Python package specially for Brazil Geospatial DataFrames, to learn more please visit [here](https://ipeagit.github.io/geobr/articles/python-intro/py-intro-to-geobr.html). 
 
 3. Trouble shooting & Issues (updating ...)
 - the existing issue and how we can solve it here.
